@@ -14,11 +14,11 @@ Link: : https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 ## EDA
  - Heat Map
-
+<img src="HeatMap.png"> 
  - Histogram
-
+<img src="Histogram.png"> 
  - Boxplot
-
+<img src="alpine_sea_holly4.png"> 
 
 
 
