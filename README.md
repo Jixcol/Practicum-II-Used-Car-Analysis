@@ -7,8 +7,20 @@ The dataset I used was retrieved from Kaggle and was scraped of Craigslist’s u
 Link: : https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 ## Data Cleaning
+ - Removed duplicates & irrelevant data
+ - Ordinal and One-Hot Encoding
+ - Imputing missing values (Iterative imputer)
+ - Removed Outliers
 
 ## EDA
+ - Heat Map
+
+ - Histogram
+
+ - Boxplot
+
+
+
 
 ## RandomForest
 
